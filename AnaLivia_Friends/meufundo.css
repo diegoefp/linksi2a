@@ -1,0 +1,10 @@
+body{
+	background-image: url("fofoo.jpeg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+p{
+	família de fontes: 'Oswald', sem serifa;
+família de fontes: 'Playfair Display', serifa;
+}

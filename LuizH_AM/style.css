@@ -1,0 +1,123 @@
+
+h1{
+
+	color: black;
+	font-family: Calibri;
+	text-align: center;
+
+
+}
+
+h2{
+
+	text-align: center;
+	color: black;
+	font-family: Calibri
+
+}
+
+p{
+
+	color: black;
+	text-align: center;
+	font-family: Calibri;
+	font-size: 16px;
+
+}
+
+li{
+
+	color: black;
+	font-family: Calibri;
+	font-size: 16px;
+
+}
+
+body{
+
+	background-image: url("images/AM_wallpaper4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	margin-right: 10%;
+	margin-left: 10%;
+
+}
+
+.logo{
+
+	margin-top: -30px;
+	
+
+}
+
+.ind{
+
+	text-align: center;
+	border: solid black 2px;
+	padding-bottom: 20px ;
+	padding-right: 30px;
+	padding-left: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width:30%;
+	max-width: 150px;
+
+}
+
+.captit{
+
+	border-bottom: solid lightgray 1px ;
+
+}
+
+.subimg{
+
+	height: 250px;
+	border: solid black 1px;
+	margin-bottom: 20px;
+
+}
+
+.citation{
+
+	color: black;
+	font-family: Calibri;
+	text-align: center;
+	font-style: italic;
+
+}
+
+.subimg2{
+
+	width: 100%;
+	border: solid black 1px;
+
+}
+
+.table{
+
+	font-size: 70%;
+
+}
+
+.table2{
+
+	font-size: 3px;
+	font-style: bold;
+
+}
+
+.contato{
+
+	margin-top: -20px;
+	display: inline-block;
+
+}
+
+.icon{
+
+	width: 50px;
+
+}
+

@@ -1,0 +1,49 @@
+body{
+    background-color: royalblue;
+    color: black;   
+}
+li a{
+    display: inline;
+  color: black;
+}
+a{
+    color: black;
+}
+
+ul li {
+    display: inline;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+img{
+    border-radius: 20px;
+    transition: 0.5s;
+    }
+
+img:hover{
+    transform: translate(50px);
+
+}
+button{
+    border-radius: 10px;
+    transition: 0.5s;
+    color: blue;
+    padding: 10px 10px;
+}
+button:hover{
+    transform: translate(0px ,10px);
+
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+    text-decoration: underline;
+}
+h1{
+     font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+}

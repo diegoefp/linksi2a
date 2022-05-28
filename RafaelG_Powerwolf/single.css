@@ -1,0 +1,68 @@
+body{
+    background-color: #131313;
+}
+.Gévaudanbox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.Gévaudan{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.trackGévaudan{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.dancebox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.death{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.trackdeath{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.cobrabox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.kiss{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.trackkiss{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.demonsbox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.girl{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.trackgirl{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.fim{
+    color: #c1aaa0;
+    background-color: black;
+    background-image: url(E:/CEP/aulasdodiego/site/sybol.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100px;
+}
+.l{
+    font-family: 'Times New Roman', Times, serif;
+    color: #c1aaa0;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+#title{
+  text-align: center;
+  font-size: 45px;
+}
+ul{
+  list-style: none;
+  display: flex;
+ 
+
+}
+li{
+  padding-left: 20px;
+
+}
+
+p{
+  font-size: 18px;
+}
+
+img{
+  width: 560px;
+  height: 315px;
+}

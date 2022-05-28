@@ -1,0 +1,94 @@
+body{
+    background-image:url(CEP/LORD.png) ;
+}
+.wildbox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.wild{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.trackwild{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.sacramentbox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.sin{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.tracksin{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.blessedbox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.possessed{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.trackpossessed{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.fim{
+    color: #c1aaa0;
+    background-color: black;
+    background-image: url(CEP/From_Logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100px;
+}
+.l{
+    font-family: 'Times New Roman', Times, serif;
+    color: #c1aaa0;
+    text-align: center;
+}
+.nightbox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.night{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.tracknight{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.bloodbox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.blood{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.trackblood{
+    margin-left: 250px;
+    margin-top: -240px;
+}
+.biblebox{
+    color: #c1aaa0;
+    background-color: black;
+    
+}
+.bible{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.trackbible{
+    margin-left: 250px;
+    margin-top: -240px;
+}

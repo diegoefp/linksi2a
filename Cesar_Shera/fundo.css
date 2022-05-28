@@ -1,0 +1,60 @@
+body{
+	background-image: url("fundo.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+html{
+	scroll-behavior: smooth;
+}
+
+
+
+h1{ text-align: center;
+	font-size: 70px;
+	color: mediumpurple;
+}
+ul{
+	display: inline;
+	font-size: 30px;
+}	
+h2{
+	font-size: 50px;
+	color: mediumpurple;
+}
+p{
+	font-size: 35px;
+	padding-right: 100px;
+	color: wheat;
+}
+p1{
+
+}
+
+
+#capa{
+	width: 1000px;
+}
+#linda{
+	width: 500px;
+}
+#clic1{
+	width: 350px;
+}
+#poster{
+	width: 500px;
+}
+#clic2{
+	width: 250px;
+}
+#clic3{
+	width: 500px;
+}
+#netflix{
+	padding-right:100px;
+	font-size: 40px;
+}
+#nome{
+	font-size: 20px;
+	padding-right: 100px;
+}

@@ -1,0 +1,106 @@
+footer{
+ color: rgb(119, 24, 24);
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    background-color:rgb(255, 255, 255);
+    padding: 35px;
+    text-align: right;
+ }
+
+header{
+    
+    background-color: white;
+    padding: 3px;
+
+ }
+ul li {
+
+   display: inline;
+   margin-left: 50px;
+   margin-right: 40px;
+   font-size: 25px;
+}
+ ul li a {
+   text-decoration: none;
+   color: black;
+ }
+
+
+#cabeca{    
+    background-color: white;
+    padding: 35px;
+    display: ;
+    align-items: baseline;
+    justify-content:;
+    text-align: center;
+    font-size: 30px;
+}
+
+#title{
+
+    background-color: white;
+    padding: 0px;
+    
+}
+
+h1{
+   text-align: center;
+   font-size: 40px;
+}
+
+hr{
+   color: gray;
+}
+
+p{
+   font-size: 20px;
+}
+
+h2{
+
+   font-size: 25px;
+}
+
+h3{
+  color: darkred;
+  font-size: 35px;
+}
+
+
+a{
+   text-decoration: none;
+   color: darkred;
+}
+
+#bola{
+   height: 60px;
+   border-radius: 100px;
+   right: 1240px;
+   position: relative;
+}
+
+}
+#seta{
+   height: 50px ;
+   display: top;
+
+}
+
+h4{
+   text-align: ;
+   margin-right: 800px;
+   font-size: 40px;
+}
+
+#nba{
+   right: 500%;
+   position: relative;
+   top: 30px;
+   height: %;
+   left: 40%;
+}
+
+h1{
+      color: darkred;
+}

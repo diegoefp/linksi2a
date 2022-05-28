@@ -1,0 +1,112 @@
+html 
+{
+	scroll-behavior: smooth;
+}
+
+body 
+{
+	background-image: url('background.jpg');
+	font-family: 'Grape Nuts', cursive;
+}
+
+h1 
+{
+	text-align: center;
+	color: #00ffa1;
+	font-size: 40px;
+	padding-top: 10px;
+}
+
+p 
+{
+	font-size: 25px;
+	color: #ffe000;
+	padding: 15px;
+}
+
+h2 
+{
+	color: #00ffa1;
+	font-size: 40px;
+	padding: 10px;
+}
+
+#indice
+{
+	padding-bottom: 10px;
+}
+
+#indice li a
+{
+	transition: 0.5;
+}
+
+#indice li a:hover
+{
+	cursor: pointer;
+	color: red;
+}
+
+ul 
+{
+	list-style: none;
+	padding: 0;
+	font-size: 32px;
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+}
+
+a 
+{
+	color: #fda231;
+	text-decoration: none;
+}
+
+img 
+{
+	position: relative;
+	border:1px solid cyan;
+	border-radius: 20px;
+ 	left: 15px;
+}
+
+#sitems li a
+{
+	color: #ff8100;
+}
+
+div 
+{
+	box-shadow: inset 0 0 0 2000px rgb(0 0 0 / 70%); /* box-shadow: [horizontal offset] [vertical offset] [blur radius] [optional spread radius] [color]; */
+	border-radius: 25px;
+}
+
+#info 
+{
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+	padding-left: 15px;
+	padding-bottom: 15px; 
+	border: 0;
+}
+
+#capitulo3 ul li 
+{
+	font-size: 25px;
+}
+
+q 
+{
+	font-style: italic;
+}
+
+#topoimg 
+{
+	border:0px solid cyan;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 93%;
+}

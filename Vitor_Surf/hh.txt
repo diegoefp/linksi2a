@@ -1,0 +1,74 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>??Surf Life??</title>
+</head>
+<body>
+	<h1>??3 Melhores Surfistas De Todos Os Tempos??</h1>
+	<ul>
+
+    <h2>
+      <a href="#kelly">???????????? ??????????R??</li></a>
+    </h2>
+    <h2>
+      <a href="#mark">??????R?? RICH??R??????</li></a>
+    </h2>
+    <h2>
+      <a href="#tom">???????? C??RR??????</li></a>
+    </h2>
+
+
+  <h1 id="kelly">???????????? ??????????R??</h1>
+    <p>Kelly Slater é o recordista de títulos mundiais: KS11x. O surfista mais bem sucedido ($$$) e mais famoso de todos os tempos. Ganhou todos os títulos possíveis em todos os tipos de ondas. Um fenômeno! Dominou o surfe profissional por mais de uma década. Talvez o atleta mais vitorioso de todos os tempos, incluindo todos os esportes.</p>
+    <a href="https://pt.wikipedia.org/wiki/Kelly_Slater"><img src="i1.jpeg"></a>
+
+   
+
+    <h1 id="mark">??????R?? RICH??R??????</h1>
+    <p>Mark Richards é 4x campeão mundial. Dominou o surfe profissional de 1979 até 1982. Campeão nas grandes ondas do Hawaii e também nas marolas dos “beach breaks”. Popularizou as “twin fins” (pranchas com duas quilhas).</p>
+    <a href="https://pt.wikipedia.org/wiki/Mark_Richards"><img src="i2.jpeg"></a>
+
+
+    <h1 id="tom">???????? C??RR??????</h1>
+
+    <p>Tom Curren é 3x campeão mundial. Ganhou no Hawaii, nos point breaks da Austrália e dos EUA. E também no “beach break” de Huntington. Rei do estilo. Cultuado como um Deus. Intocável e incontestável na década de 90. Influenciou mais de uma geração.</p>
+    <a href="https://pt.wikipedia.org/wiki/Tom_Curren"><img src="i3.jpeg"></a>
+
+
+
+    <br>
+
+
+
+<a href="#body">??Voltar Ao Topo??</a>
+</body>
+</html>
+
+css
+
+h1{
+	text-align: center;
+    
+}
+h2{
+	text-align: center;
+	font-weight: bold;
+
+}
+p{
+  text-align: center;
+  font-size: 25px;
+}
+a {
+	font-size: 30px;
+	text-align: center;
+} 
+img{
+  width: 250px;
+  height: 300px;
+  
+  
+}
